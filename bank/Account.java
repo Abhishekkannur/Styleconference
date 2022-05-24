@@ -1,5 +1,5 @@
 package bank;
-
+//Bank account details
 public class Account {
 	long accNumber;
 	float balance;
